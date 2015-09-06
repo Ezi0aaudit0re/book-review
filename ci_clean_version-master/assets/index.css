@@ -1,0 +1,11 @@
+input{
+	padding: 10px;
+	margin-bottom: 8px;
+	width: 250px;
+}
+input[type='submit']{
+	margin-top: 2px;
+}
+#signin{
+	margin-right: 100px;
+}
